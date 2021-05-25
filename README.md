@@ -8,3 +8,9 @@ code 1
      code 2 // code block 할 내용
 
 code 3 // 정상적으로 출력
+
+
+``` C
+printf("Hello world !\n");
+printf("code Block \n");
+```
