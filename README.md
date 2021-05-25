@@ -14,7 +14,7 @@ How to use?
 
 
 ### screenshot of our App
-[프로젝트 캡처](https://user-images.githubusercontent.com/54178500/119440342-15c97880-bd5f-11eb-9428-41ee0e621fd1.PNG)
+https://github.com/tmdduf06/2021_1_oss/issues/1#issue-900263619
 
 ### demo
 
